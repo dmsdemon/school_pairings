@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 public class MessageUtilV2 {
 
-   String message = "Robert";	
+   String message = "Ian";	
    MessageUtil messageUtil = new MessageUtil(message);
    
    @Ignore
